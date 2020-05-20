@@ -10,3 +10,15 @@
 - original search wasn't working
 - played around with the critera individually and found that find: `\n[^~]+` replace: `\n` worked
 - asked in discord and learned that `\n` meant that the remaining text would stay in its line rather than turning into one giant block of text
+
+## Open Refine
+
+## Networks
+- got an error when uploading
+- couldn't find anything specific to databasic.io when I looked up the error message
+- copied and pasted about the first 90 rows and got this result:
+- network visualization in Gephi worked well, no errors, with this result:
+- didn't do network analysis in python, might go back to it
+
+## bonus activity
+- "one-mode network" vs "two-node network" ...
