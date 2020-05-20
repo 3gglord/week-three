@@ -22,3 +22,5 @@
 
 ## bonus activity
 - "one-mode network" vs "two-node network" ...
+- all about the questions that you ask as you look at the visualizations
+- how do the visualizations help you think about the data? what do they tell us about the relationships of those people? what impact does that have to our study of the time period?
