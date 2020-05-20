@@ -7,8 +7,8 @@
 - `\<` or `\b` means the beginning of a word
 - `\>` or `\b` for patterns at the end of the line
 - can use parentheses to look for variations of a single word
-- original search wasn't working
-- played around with the critera individually and found that find: `\n[^~]+` replace: `\n` worked
+- original search wasn't working: ![regex-error](regex-error.png)
+- played around with the critera individually and found that find: `\n[^~]+` replace: `\n` worked: ![regex-solution](regex-solution.png)
 - asked in discord and learned that `\n` meant that the remaining text would stay in its line rather than turning into one giant block of text
 
 ## Open Refine
