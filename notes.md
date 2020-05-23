@@ -17,7 +17,6 @@
 - got an error when uploading: ![databasic-error](databasic-error.png)
 - couldn't find anything specific to databasic.io when I looked up the error message
 - copied and pasted about the first 90 rows and got this result: ![databasic-result](databasic-result.png)
-- 
 - network visualization in Gephi worked well, no errors, with this result: 
 
 ![gephi-visualization](gephi-visualization.png)
